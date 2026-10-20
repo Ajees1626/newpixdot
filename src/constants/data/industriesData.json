@@ -1,0 +1,1098 @@
+{
+  "healthcare": {
+    "id": "healthcare",
+    "name": "Health Care Solutions",
+    "icon": "GiHospitalCross",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216636/ind_1_gugt7c.webp",
+    "color": "from-blue-500 to-blue-600",
+    "bgColor": "bg-blue-50",
+    "description": "Transforming healthcare through innovative digital solutions and patient-centered design.",
+    "longDescription": "The healthcare industry thrives on trust, care, and credibility. Our digital marketing and branding strategies help hospitals, clinics, wellness centers, and health startups reach more patients, strengthen their reputation, and deliver better patient experiences. We focus on solutions that make healthcare providers more visible, approachable, and patient-friendly.",
+    "services": [
+      "Healthcare Brand Identity & Logo Design",
+      "Responsive Hospital & Clinic Website Development",
+      "Local SEO & Google Business Profile Optimization",
+      "Patient-Focused Content & Blog Marketing",
+      "Social Media Campaigns & Community Engagement",
+      "HealOnline Appointment Booking System Integration",
+      "Video Marketing & Doctor/Staff Profiles",
+      "Reputation Management & Online Reviews",
+      "Email & SMS Awareness Campaigns" 
+    ],
+    "projects": "75+ Healthcare Campaigns Successfully Delivered",
+    "clients": "3+ Partner Hospitals, Clinics & Wellness Centers",
+    "growth": "62% Increase in Online Patient Bookings",
+    "features": [
+      "Patient-Friendly & Mobile-Optimized Websites",
+      "HIPAA & GDPR-Compliant Marketing Practices",
+      "Easy-to-Use Online Appointment Systems",
+      "Real-Time Analytics & Performance Tracking",
+      "Multi-Language Support for Wider Reach",
+      "AI-Powered Lead Tracking & Follow-Ups"
+    ],
+    "benefits": [
+      "More Online Appointment Bookings & Walk-Ins",
+      "Improved Patient Confidence & Engagement",
+      "Better Visibility in Local Search Results",
+      "Simplified Communication Between Patients & Staff",
+      "Consistent Reputation Across All Platforms",
+      "Stronger Community Awareness & Presence"
+    ],
+    "caseStudies": [
+      {
+        "title": "Hospital Management System",
+        "description": "Comprehensive system for a 500-bed hospital",
+        "results": "40% reduction in administrative time"
+      },
+      {
+        "title": "Telemedicine Platform",
+        "description": "Remote consultation platform for rural clinics",
+        "results": "60% increase in patient accessibility"
+      }
+    ]
+  },
+  "Education": {
+    "id": "Education",
+    "name": "Education Solutions",
+    "icon": "LiaSchoolSolid",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216642/ind_2_nqa9qr.webp",
+    "color": "from-green-500 to-green-600",
+    "bgColor": "bg-green-50",
+    "description": "Admissions-focused branding and marketing for schools, colleges, coaching centers, and edtech startups.",
+    "longDescription": "The education landscape is evolving fast with online learning, edtech innovations, and global competition. We help schools, colleges, coaching centers, and edtech startups build a strong identity, increase admissions, and engage students and parents effectively. Our strategies combine creativity and data-driven marketing to position your institution as a trusted, modern, and student-friendly brand.",
+    "services": [
+      "Education Brand Identity & Logo Design",
+      "Interactive & Responsive School/College Websites",
+      "SEO for Academic Institutions & Programs",
+      "Social Media Management & Growth Campaigns",
+      "Admission-Focused Marketing Strategies",
+      "Parent & Student Engagement Campaigns",
+      "Course Content, Blogs & Academic Material Marketing",
+      "Reputation Management & Online Reviews",
+      "Email & WhatsApp Campaigns for Admissions" 
+    ],
+    "projects": "72+ Educational Campaigns Successfully Delivered",
+    "clients": "7+ Partner Schools, Colleges & Edtech Startups",
+    "growth": "45% Growth in Admission Enquiries",
+    "features": [
+      "Student & Parent-Centric Messaging",
+      "SEO-Optimized Content for Courses & Programs",
+      "Secure Online Admission & Enquiry Systems",
+      "LMS Integration for Seamless Learning Experience",
+      "Multi-Platform Analytics to Track Performance",
+      "High-Converting Landing Pages for Programs & Courses"
+    ],
+    "benefits": [
+      "Increase in Admission Conversion Rates",
+      "Strong Online Presence & Institutional Credibility",
+      "Better Engagement with Students & Parents",
+      "Improved Academic Reputation",
+      "Streamlined Communication During Admissions",
+      "Long-Term Trust & Brand Recognition"
+    ],
+    "caseStudies": [
+      {
+        "title": "University LMS",
+        "description": "Comprehensive learning management system for 50,000+ students",
+        "results": "90% student satisfaction rate"
+      },
+      {
+        "title": "K-12 Learning Platform",
+        "description": "Interactive learning platform for elementary schools",
+        "results": "35% improvement in test scores"
+      }
+    ]
+  },
+  "IT Industry": {
+    "id": "IT Industry",
+    "name": "IT Industry Solutions",
+    "icon": "CiLaptop",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216637/ind_3_gemhjp.webp",
+    "color": "from-purple-500 to-purple-600",
+    "bgColor": "bg-purple-50",
+    "description": "Branding and performance marketing for software companies, IT service providers, and tech startups.",
+    "longDescription": "In the fast-paced tech world, IT companies need more than just innovative solutions — they need a strong digital presence and a brand that inspires trust. We help software companies, IT service providers, and tech startups attract clients, highlight their expertise, and grow their business globally. Our approach blends creative branding with performance-driven marketing to make your IT brand stand out.",
+    "services": [
+      "IT Brand Identity & Positioning",
+      "Modern Website Design & UI/UX for Tech Businesses",
+      "SEO for Software, IT Services & Tech Solutions",
+      "Performance Marketing & Paid Campaigns",
+      "LinkedIn & B2B Lead Generation",
+      "Content Marketing: Blogs, Case Studies & Whitepapers",
+      "Email Marketing & Automation",
+      "Reputation Management & Online Reviews",
+      "Analytics & Conversion Optimization" 
+    ],
+    "projects": "35+ IT & Software Marketing Campaigns Executed",
+    "clients": "2+ Collaborations with Tech Companies",
+    "growth": "82% Growth in Qualified Client Leads",
+    "features": [
+      "Data-Driven Marketing Strategies for IT Brands",
+      "Secure & Compliant Digital Marketing Systems",
+      "AI-Powered Audience Targeting",
+      "CRM & Marketing Automation Integration",
+      "Advanced Conversion Tracking & Reporting",
+      "Optimized Content for Global Tech Audiences"
+    ],
+    "benefits": [
+      "Increase in High-Quality Leads & Enquiries",
+      "Build Brand Authority & Credibility in the Tech Market",
+      "Improve Global Online Visibility",
+      "Streamline Communication & Client Acquisition",
+      "Cost-Effective Marketing Strategies for ROI",
+      "Strengthen Long-Term Client Relationships"
+    ],
+    "caseStudies": [
+      {
+        "title": "Digital Banking Platform",
+        "description": "Complete digital banking solution for regional bank",
+        "results": "50% increase in digital transactions"
+      },
+      {
+        "title": "Payment Gateway",
+        "description": "High-volume payment processing system",
+        "results": "99.9% uptime with 2M+ daily transactions"
+      }
+    ]
+  },
+  "E-commerce": {
+    "id": "E-commerce",
+    "name": "E-commerce Solutions",
+    "icon": "FaShoppingCart",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216636/ind_4_yvq5gi.webp",
+    "color": "from-orange-500 to-orange-600",
+    "bgColor": "bg-orange-50",
+    "description": "Conversion-focused branding and marketing for online stores, D2C brands, and marketplace sellers.",
+    "longDescription": "In the competitive world of online retail, visibility, engagement, and trust are key to success. We help e-commerce brands, online stores, and startups build a strong digital identity, attract loyal customers, and increase sales through smart, data-driven marketing strategies. From website optimization to performance advertising, we create systems that drive conversions and sustainable growth.",
+    "services": [
+      "E-commerce Branding & Store Identity Design",
+      "Shopify, WooCommerce & Custom Store Development",
+      "SEO for Product Pages & Category Listings",
+      "Social Media Advertising & Promotions",
+      "Influencer & Affiliate Marketing",
+      "Performance Marketing (Google & Meta Ads)",
+      "Email & WhatsApp Retargeting Campaigns",
+      "Product Photography & Video Marketing",
+      "Customer Review & Reputation Management"
+    ],
+    "projects": "200+ E-commerce Campaigns Delivered",
+    "clients": "12+ Online Stores Scaled Successfully",
+    "growth": "89% Growth in Sales & Customer Conversions",
+    "features": [
+      "Conversion-Focused Landing Pages",
+      "Optimized Checkout & Smooth Shopping Experience",
+      "Real-Time Order & Analytics Tracking",
+      "Multi-Platform Ad Campaign Integration",
+      "Retargeting & Customer Segmentation Tools",
+      "Secure Payment Systems & Data Protection"
+    ],
+    "benefits": [
+      "Higher Online Sales & Revenue",
+      "Improved Customer Retention & Loyalty",
+      "Stronger Brand Recall & Trust",
+      "Enhanced User Experience Across Platforms",
+      "Reduced Cart Abandonment Rate",
+      "Scalable & Sustainable Growth"
+    ],
+    "caseStudies": [
+      {
+        "title": "Fashion E-commerce Platform",
+        "description": "Multi-brand fashion marketplace with 10,000+ products",
+        "results": "200% increase in online sales"
+      },
+      {
+        "title": "B2B E-commerce Solution",
+        "description": "Enterprise platform for wholesale distribution",
+        "results": "80% reduction in order processing time"
+      }
+    ]
+   
+  },
+  "Retail": {
+    "id": "Retail",
+    "name": "Retail Solutions",
+    "icon": "IoBagHandle",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216636/ind_5_w4ka2s.webp",
+    "color": "from-red-500 to-red-600",
+    "bgColor": "bg-red-50",
+    "description": "Brand and local marketing solutions for retail stores, chains, and omnichannel businesses.",
+    "longDescription": "Retail thrives on visibility, customer experience, and trust. We help retail stores, chains, and online-offline businesses build a strong brand, attract more customers, and increase sales. Our strategies combine creative campaigns, local marketing, and technology-driven solutions to ensure your brand stands out and drives measurable results.",
+    "services": [
+      "Retail Branding & Store Identity Design",
+      "Local SEO & Google My Business Optimization",
+      "Store Launch & Promotional Campaigns",
+      "Social Media Marketing & Customer Engagement",
+      "In-Store Digital Displays & Video Marketing",
+      "Online Review & Reputation Management",
+      "Email & SMS Loyalty Campaigns",
+      "Seasonal & Festival Offer Promotions",
+      "Retail Analytics & Customer Insight Reports" 
+    ],
+    "projects": "26+ Retail Campaigns Successfully Delivered",
+    "clients": "4+ Partner Retail Stores Across India",
+    "growth": "78% Growth in Monthly Sales & Footfall",
+    "features": [
+      "Omni-Channel Marketing Across Online & Offline",
+      "Real-Time Customer Engagement Tools",
+      "Location-Based Ads to Drive Foot Traffic",
+      "POS & CRM Integration for Seamless Operations",
+      "Personalized Offers & Loyalty Programs",
+      "Multi-Platform Brand Consistency"
+    ],
+    "benefits": [
+      "Increase in Store Visits & Online Inquiries",
+      "Stronger Local Brand Recognition",
+      "Better Customer Retention & Loyalty",
+      "Successful Festival & Promotional Campaigns",
+      "Streamlined Communication with Customers",
+      "Insights for Data-Driven Marketing Decisions"
+    ],
+    "caseStudies": [
+      {
+        "title": "Real Estate Marketplace",
+        "description": "Multi-property platform with virtual tours and AI recommendations",
+        "results": "150% increase in property inquiries"
+      },
+      {
+        "title": "Property Management System",
+        "description": "Comprehensive system for managing 500+ rental properties",
+        "results": "60% reduction in administrative tasks"
+      }
+    ]
+  },
+  "food": {
+    "id": "food",
+    "name": "Food Solutions",
+    "icon": "GiForkKnifeSpoon",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216637/ind_6_lnolqe.webp",
+    "color": "from-orange-500 to-red-500",
+    "bgColor": "bg-orange-50",
+    "description": "Deliciously creative digital solutions for restaurants, cafés, and food brands.",
+    "longDescription": "The food industry thrives on flavor, presentation, and customer trust. We help restaurants, cafés, bakeries, cloud kitchens, and food brands build a strong digital presence, attract more customers, and grow their business. Our strategies combine creative visuals, social media engagement, and data-driven marketing to make your brand unforgettable and drive repeat business.",
+    "projects": "240+ Food & Beverage Campaigns Delivered",
+    "clients": "12+ Partner Restaurants, Cafés & Food Brands",
+    "growth": "74% Growth in Orders, Bookings & Customer Engagement",
+    "services": [
+      "Food & Restaurant Branding & Identity Design",
+      "Menu Design & Packaging Consultation",
+      "Restaurant Websites & Online Ordering Systems",
+      "Local SEO & Google Maps Optimization",
+      "Food Photography & Video Marketing",
+      "Social Media Management & Campaigns",
+      "Influencer Collaborations & Review Marketing",
+      "Online Reputation & Feedback Management",
+      "Festival & Special Offer Promotions"
+    ],
+    "features": [
+      "App & Website Integration for Seamless Ordering",
+      "Real-Time Campaign Analytics",
+      "Geo-Targeted Ads to Reach Local Customers",
+      "SEO-Optimized Food Content & Blog Marketing",
+      "Multi-Platform Campaign Integration",
+      "Customer Retargeting & Loyalty Tools"
+    ],
+    "benefits": [
+      "Increase in Table Bookings & Online Orders",
+      "Stronger Brand Recognition & Customer Loyalty",
+      "Enhanced Social Media Engagement",
+      "Effective Promotions During Festivals & Offers",
+      "Consistent Growth in Local Visibility",
+      "Data-Driven Insights for Smarter Marketing"
+    ],
+    "caseStudies": [
+      {
+        "title": "Restaurant Growth with Local Marketing",
+        "description": "A vegetarian restaurant achieved a 70% increase in dine-in and delivery orders through hyperlocal marketing campaigns.",
+        "results": "70% increase in orders and customer visits"
+      },
+      {
+        "title": "Dessert Brand Rebranding Success",
+        "description": "A dessert brand tripled online engagement and improved repeat customer rates after rebranding and social media strategy implementation.",
+        "results": "3x boost in engagement and repeat customers"
+      }
+    ]
+  },
+  "snacks-sweets": {
+    "id": "snacks-sweets",
+    "name": "Snacks & Sweets Solutions",
+    "icon": "MdFastfood",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216637/ind_7_ypball.webp",
+    "color": "from-pink-500 to-purple-500",
+    "bgColor": "bg-pink-50",
+    "description": "Deliciously creative digital solutions for sweet shops, confectionery brands, and packaged snack businesses.",
+    "longDescription": "The snacks and sweets industry thrives on flavor, presentation, and memorable experiences. We help sweet shops, confectionery brands, and packaged snack businesses attract more customers, boost sales, and create a lasting brand impression. Our strategies combine creative visuals, festive campaigns, and data-driven marketing to make your brand irresistible.",
+    "projects": "23+ Snack & Sweet Campaigns Delivered",
+    "clients": "15+ Partner Sweet Shops & Snack Brands",
+    "growth": "50% Growth in Customer Engagement & Sales",
+    "services": [
+      "Brand Identity & Logo Design for Snacks & Sweets",
+      "Website & Online Ordering System Development",
+      "SEO for Products, Menus & Sweet Collections",
+      "Social Media Marketing & Influencer Collaborations",
+      "Seasonal & Festival Campaigns",
+      "Product Photography & Catalog Creation",
+      "Email & SMS Promotions",
+      "Online Review & Reputation Management",
+      "Performance Marketing (Google & Meta Ads)"
+    ],
+    "features": [
+      "High-Quality Product Photography & Lifestyle Content",
+      "Optimized Product Pages for Better Conversions",
+      "Mobile-Friendly Ordering & Delivery Integration",
+      "Retargeting & Customer Segmentation Tools",
+      "Multi-Platform Campaign Management",
+      "Real-Time Analytics & Performance Tracking"
+    ],
+    "benefits": [
+      "Boost in Online Orders & In-Store Footfall",
+      "Improved Brand Recognition & Customer Loyalty",
+      "Stronger Engagement with Sweet & Snack Lovers",
+      "Successful Festival & Seasonal Promotions",
+      "Simplified Marketing Across Multiple Channels",
+      "Data-Driven Insights for Smarter Campaigns"
+    ],
+    "caseStudies": [
+      {
+        "title": "Sweet Shop Diwali Success",
+        "description": "A sweet shop doubled online orders during Diwali through optimized listings and targeted ads.",
+        "results": "100% increase in online orders during festival season"
+      },
+      {
+        "title": "Packaged Snack Brand Growth",
+        "description": "A packaged snack brand achieved 60% higher social media engagement and increased repeat customers after a full-scale branding and digital marketing campaign.",
+        "results": "60% higher engagement and increased repeat customers"
+      }
+    ]
+  },
+  "spices-catering": {
+    "id": "spices-catering",
+    "name": "Spices & Catering Solutions",
+    "icon": "GiOpenedFoodCan",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216639/ind_8_vsovm7.webp",
+    "color": "from-orange-500 to-red-600",
+    "bgColor": "bg-orange-50",
+    "description": "Flavorful digital solutions for spice brands, catering companies, and event food providers.",
+    "longDescription": "The spices and catering industry thrives on flavor, quality, and customer satisfaction. We help spice brands, catering companies, and event food providers reach more customers, increase orders, and strengthen their brand presence. Our strategies combine creative branding, visual storytelling, and data-driven marketing to make your offerings stand out.",
+    "projects": "12+ Campaigns Executed for Spices & Catering",
+    "clients": "3+ Partner Spice Brands & Catering Services",
+    "growth": "59% Growth in Customer Engagement & Orders",
+    "services": [
+      "Brand Identity & Logo Design for Spices & Catering",
+      "Website & Online Ordering/Booking System Development",
+      "SEO for Spices, Menus & Catering Services",
+      "Social Media Marketing & Influencer Collaborations",
+      "Festival & Seasonal Promotions",
+      "Product & Event Food Photography",
+      "Email & SMS Promotions",
+      "Online Review & Reputation Management",
+      "Performance Marketing (Google & Meta Ads)"
+    ],
+    "features": [
+      "High-Quality Product & Food Photography",
+      "Optimized Pages for Better Search Visibility & Conversions",
+      "Mobile-Friendly Online Ordering & Booking Systems",
+      "Retargeting & Customer Segmentation Tools",
+      "Multi-Platform Marketing Campaigns",
+      "Real-Time Analytics & Performance Tracking"
+    ],
+    "benefits": [
+      "Increase in Online Orders & Event Bookings",
+      "Stronger Brand Recognition & Customer Trust",
+      "Better Engagement with Food Lovers & Event Planners",
+      "Effective Festival & Seasonal Marketing",
+      "Streamlined Multi-Channel Marketing Efforts",
+      "Data-Driven Insights for Smarter Campaigns"
+    ],
+    "caseStudies": [
+      {
+        "title": "Spice Brand Sales Growth",
+        "description": "A spice brand doubled online sales with optimized product listings and targeted performance ads.",
+        "results": "100% increase in online sales"
+      },
+      {
+        "title": "Catering Service Success",
+        "description": "A catering service achieved 50% higher social media engagement and more repeat event bookings after a full-scale branding and digital marketing campaign.",
+        "results": "50% higher engagement and increased repeat bookings"
+      }
+    ]
+  },
+  "real-estate": {
+    "id": "real-estate",
+    "name": "Real Estate Solutions",
+    "icon": "MdRealEstateAgent",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216649/ind_9_jr8t3a.webp",
+    "color": "from-blue-500 to-indigo-600",
+    "bgColor": "bg-blue-50",
+    "description": "Property-focused digital solutions for builders, developers, and real estate consultants.",
+    "longDescription": "The real estate market relies on visibility, trust, and timely communication. We help builders, developers, and property consultants connect with potential buyers, generate qualified leads, and showcase properties effectively. From luxury apartments to commercial projects, our branding and digital marketing strategies turn property listings into successful sales while strengthening your brand presence.",
+    "projects": "58+ Real Estate Campaigns Executed",
+    "clients": "6+ Partner Builders & Developers",
+    "growth": "80% Growth in Qualified Buyer Leads",
+    "services": [
+      "Real Estate Branding & Visual Identity Design",
+      "Property Websites & High-Converting Landing Pages",
+      "Google Ads & Meta Lead Generation Campaigns",
+      "SEO for Builders, Realtors & Property Developers",
+      "Virtual Tours & 3D Walkthrough Promotions",
+      "Social Media Marketing for Property Launches",
+      "Email & WhatsApp Follow-Up Campaigns",
+      "Reputation & Online Review Management",
+      "Real-Time Lead Tracking & Reporting"
+    ],
+    "features": [
+      "Verified Lead Generation with CRM Integration",
+      "High-Converting Landing Page Designs",
+      "Local SEO Targeting Project Locations",
+      "Retargeting & Marketing Automation Tools",
+      "Secure Lead Management & Data Protection",
+      "Multi-Platform Campaign Coordination"
+    ],
+    "benefits": [
+      "Increase in Property Enquiries & Bookings",
+      "Enhanced Brand Credibility & Online Visibility",
+      "Faster Lead-to-Sale Conversion",
+      "Streamlined Communication with Buyers",
+      "Cost-Effective Digital Advertising Campaigns",
+      "Measurable Results with Real-Time Analytics"
+    ],
+    "caseStudies": [
+      {
+        "title": "Premium Apartment Project Success",
+        "description": "A premium apartment project achieved a 60% increase in qualified leads through targeted Meta and Google Ads campaigns.",
+        "results": "60% increase in qualified leads"
+      },
+      {
+        "title": "Real Estate Developer Growth",
+        "description": "A real estate developer experienced 3x website traffic growth and higher conversions after rebranding and SEO optimization over 4 months.",
+        "results": "3x website traffic growth and higher conversions"
+      }
+    ]
+  },
+  "beauty-personal-care": {
+    "id": "beauty-personal-care",
+    "name": "Beauty & Personal Care Solutions",
+    "icon": "RiBrushAiFill",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216637/ind_10_kdomnk.webp",
+    "color": "from-pink-400 to-purple-500",
+    "bgColor": "bg-pink-50",
+    "description": "Stunning digital solutions for salons, spas, skincare brands, and cosmetic companies.",
+    "longDescription": "The beauty and personal care sector thrives on confidence, creativity, and striking visual appeal. We help salons, spas, skincare brands, and cosmetic companies build a strong brand identity that attracts new clients and retains loyal ones. From luxury product branding to influencer campaigns, our strategies make beauty brands shine across all digital platforms.",
+    "projects": "32+ Beauty & Wellness Campaigns Delivered",
+    "clients": "3+ Partner Salons, Spas & Cosmetic Brands",
+    "growth": "60% Growth in Brand Awareness & Sales",
+    "services": [
+      "Beauty & Wellness Branding & Identity Design",
+      "Product Packaging & Labeling Solutions",
+      "Salon & Spa Website Development",
+      "SEO for Skincare, Cosmetics & Beauty Services",
+      "Social Media Marketing & Influencer Collaborations",
+      "Product Photography & Video Campaigns",
+      "Online Appointment & Booking Integrations",
+      "Reputation & Review Management",
+      "Email & SMS Promotions"
+    ],
+    "features": [
+      "High-Quality Visual & Lifestyle Content",
+      "Mobile-Optimized Websites & Landing Pages",
+      "SEO-Friendly Product Descriptions & Content",
+      "Real-Time Campaign Performance Tracking",
+      "Personalized Offers & Loyalty Programs",
+      "Social Media Automation & Scheduling Tools"
+    ],
+    "benefits": [
+      "Increased Brand Visibility & Customer Reach",
+      "Higher Online Bookings & Product Sales",
+      "Stronger Customer Trust & Brand Recall",
+      "Effective Influencer & Campaign-Driven Growth",
+      "Improved Customer Loyalty & Retention",
+      "Scalable Marketing for Product Launches"
+    ],
+    "caseStudies": [
+      {
+        "title": "Skincare Brand Growth",
+        "description": "A skincare brand achieved 3x growth in online sales after a complete rebranding and digital marketing strategy.",
+        "results": "3x growth in online sales"
+      },
+      {
+        "title": "Luxury Salon Success",
+        "description": "A luxury salon saw 50% more new clients through localized Google Ads and influencer-led campaigns.",
+        "results": "50% more new clients"
+      }
+    ]
+  },
+  "laundry-cleaning": {
+    "id": "laundry-cleaning",
+    "name": "Laundry & Cleaning Solutions",
+    "icon": "MdDryCleaning",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216638/ind_11_vhxbbh.webp",
+    "color": "from-cyan-500 to-blue-600",
+    "bgColor": "bg-cyan-50",
+    "description": "Reliable digital solutions for laundries, dry cleaners, and professional cleaning services.",
+    "longDescription": "The laundry and cleaning sector thrives on reliability, efficiency, and convenience. We help laundries, dry cleaners, and professional cleaning services attract more customers, increase bookings, and build a strong brand presence. Our tailored branding and digital marketing strategies ensure your services stand out and deliver measurable results.",
+    "projects": "5+ Campaigns Executed for Laundry & Cleaning Businesses",
+    "clients": "2+ Service Partners Across Cities",
+    "growth": "89% Growth in Online Bookings & Customer Engagement",
+    "services": [
+      "Customized Brand Identity & Logo Design",
+      "User-Friendly Website & Online Booking System",
+      "Local SEO to Rank Your Services in Target Areas",
+      "Social Media Promotions & Community Engagement",
+      "Special Offers & Seasonal Marketing Campaigns",
+      "Service Photography & Before/After Visuals",
+      "Email & SMS Customer Reminders",
+      "Online Review & Reputation Management",
+      "Google & Meta Ads for Maximum Reach"
+    ],
+    "features": [
+      "Eye-Catching Visuals Showcasing Service Quality",
+      "Optimized Pages for Faster Bookings & Search Visibility",
+      "Mobile-Friendly Experience for Customers on the Go",
+      "Targeted Campaigns to Retain Regular Clients",
+      "Multi-Channel Marketing Across Platforms",
+      "Real-Time Tracking & Performance Reporting"
+    ],
+    "benefits": [
+      "More Online and Walk-In Customers",
+      "Stronger Brand Reputation & Customer Trust",
+      "Better Engagement Through Social Media & Email",
+      "Promotions That Drive Conversions",
+      "Streamlined Multi-Channel Marketing Efforts",
+      "Insights for Smarter Future Campaigns"
+    ],
+    "caseStudies": [
+      {
+        "title": "Laundry Service Growth",
+        "description": "A laundry service increased weekly bookings by 2.5x after a new website and targeted ad campaigns.",
+        "results": "2.5x increase in weekly bookings"
+      },
+      {
+        "title": "Cleaning Company Success",
+        "description": "A cleaning company boosted repeat customer rates by 60% through social media campaigns and reputation management.",
+        "results": "60% boost in repeat customer rates"
+      }
+    ]
+  },
+  "travel-transport": {
+    "id": "travel-transport",
+    "name": "Travel & Transport Solutions",
+    "icon": "MdTravelExplore",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216638/ind_12_e50vrx.webp",
+    "color": "from-teal-500 to-blue-600",
+    "bgColor": "bg-teal-50",
+    "description": "Adventure-ready digital solutions for travel agencies, transport companies, and logistics providers.",
+    "longDescription": "The travel and transport sector thrives on convenience, reliability, and memorable experiences. We help travel agencies, transport companies, and logistics providers attract more customers, increase bookings, and build a trusted brand presence. Our strategies combine creative visuals, digital marketing, and data-driven campaigns to make your services stand out.",
+    "projects": "35+ Campaigns Executed for Travel & Transport",
+    "clients": "3+ Partner Companies Across Routes & Regions",
+    "growth": "80% Growth in Online Bookings & Customer Engagement",
+    "services": [
+      "Tailored Brand Identity & Logo Design",
+      "Travel or Transport Website & Online Booking Platforms",
+      "SEO for Routes, Packages & Services",
+      "Social Media Marketing & Destination Promotions",
+      "Seasonal Travel Packages & Special Offers",
+      "Photography & Video Content for Destinations & Fleet",
+      "Email & SMS Campaigns for Customer Engagement",
+      "Online Review & Reputation Management",
+      "Google & Meta Ads for Targeted Traffic"
+    ],
+    "features": [
+      "High-Quality Visuals Showcasing Destinations & Services",
+      "Optimized Pages for Better Bookings & Visibility",
+      "Mobile-Friendly Platforms for On-the-Go Customers",
+      "Retargeting Strategies for Repeat Clients & Travelers",
+      "Multi-Channel Marketing Across Platforms",
+      "Real-Time Analytics to Track Campaign Performance"
+    ],
+    "benefits": [
+      "Increase in Online Bookings & Customer Inquiries",
+      "Stronger Brand Recognition & Customer Trust",
+      "Better Engagement Through Social Media & Email",
+      "Effective Seasonal Campaigns & Offers",
+      "Streamlined Multi-Channel Marketing Management",
+      "Data-Driven Insights for Smarter Campaign Planning"
+    ],
+    "caseStudies": [
+      {
+        "title": "Travel Agency Success",
+        "description": "A travel agency achieved 3x increase in online tour bookings through targeted ad campaigns.",
+        "results": "3x increase in online tour bookings"
+      },
+      {
+        "title": "Logistics Company Growth",
+        "description": "A logistics company improved client retention by 55% with social media promotions and reputation management.",
+        "results": "55% improvement in client retention"
+      }
+    ]
+  },
+  "nutrition-supplements": {
+    "id": "nutrition-supplements",
+    "name": "Nutrition & Food Supplements Solutions",
+    "icon": "PiBowlFoodFill",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216641/ind_16_nge5cs.webp",
+    "color": "from-green-500 to-emerald-600",
+    "bgColor": "bg-green-50",
+    "description": "Health-focused digital solutions for supplement brands, health stores, and wellness platforms.",
+    "longDescription": "The nutrition and supplements sector thrives on trust, quality, and visible results. We help supplement brands, health stores, and wellness platforms connect with more customers, boost sales, and establish a credible brand image. Our strategies combine creative branding, performance marketing, and educational content to make your products stand out.",
+    "projects": "34+ Campaigns Executed for Nutrition & Supplement Brands",
+    "clients": "3+ Partner Stores & Wellness Platforms",
+    "growth": "89% Growth in Online Orders & Customer Engagement",
+    "services": [
+      "Custom Brand Identity & Logo Design",
+      "E-commerce Website & Online Store Development",
+      "SEO for Products, Ingredients & Health Benefits",
+      "Social Media Marketing & Influencer Collaborations",
+      "Seasonal Health Campaigns & Promotions",
+      "Product Photography & Lifestyle Content Creation",
+      "Email & SMS Marketing for Customer Retention",
+      "Online Review & Reputation Management",
+      "Targeted Google & Meta Ads for Sales Growth"
+    ],
+    "features": [
+      "High-Quality Product Photography & Informative Visuals",
+      "Optimized Product Pages for Better Sales & Search Rankings",
+      "Mobile-Friendly Online Shopping Experience",
+      "Retargeting Campaigns to Encourage Repeat Purchases",
+      "Multi-Channel Marketing Across Social & Search Platforms",
+      "Real-Time Analytics & Performance Insights"
+    ],
+    "benefits": [
+      "Increased Product Sales & Repeat Orders",
+      "Stronger Brand Credibility & Customer Trust",
+      "Higher Engagement Through Social Media & Email",
+      "Effective Seasonal & Health Awareness Promotions",
+      "Streamlined Marketing Across Multiple Channels",
+      "Data-Driven Insights to Drive Future Growth"
+    ],
+    "caseStudies": [
+      {
+        "title": "Nutrition Brand Growth",
+        "description": "A nutrition brand doubled online supplement sales with optimized e-commerce listings and targeted ads.",
+        "results": "100% increase in online supplement sales"
+      },
+      {
+        "title": "Wellness Store Success",
+        "description": "A wellness store boosted repeat customer rates by 60% through performance campaigns and reputation management.",
+        "results": "60% boost in repeat customer rates"
+      }
+    ]
+  },
+  "agri-bio-products": {
+    "id": "agri-bio-products",
+    "name": "Agri & Bio Products Solutions",
+    "icon": "GiAppleSeeds",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216638/ind_13_tbcrf3.webp",
+    "color": "from-green-600 to-lime-500",
+    "bgColor": "bg-green-50",
+    "description": "Sustainable digital solutions for farms, organic brands, and bio-product companies.",
+    "longDescription": "The agriculture and bio-products sector thrives on trust, quality, and sustainability. We help farms, organic brands, and bio-product companies reach the right audience, showcase their products, and grow sales with innovative branding and digital marketing strategies.",
+    "projects": "55+ Agri & Bio Marketing Campaigns Delivered",
+    "clients": "4+ Farms & Organic Brands Partnered",
+    "growth": "60% Growth in Customer Inquiries & Online Sales",
+    "services": [
+      "Unique Brand Identity & Logo Design for Agri & Bio Products",
+      "User-Friendly Websites & E-Commerce Store Development",
+      "SEO for Agricultural & Organic Products",
+      "Social Media Campaigns Targeting Farmers, Retailers & Consumers",
+      "Seasonal Promotions & Product Launch Campaigns",
+      "Professional Product & Farm Photography",
+      "Email & SMS Marketing for Updates & Offers",
+      "Online Reputation & Review Management",
+      "Paid Advertising on Google & Meta to Boost Leads"
+    ],
+    "features": [
+      "Engaging Visuals Highlighting Farms, Products & Sustainability",
+      "Optimized Product Pages for Higher Search Visibility & Conversions",
+      "Mobile-Friendly Websites for Easy Access Anywhere",
+      "Retargeting Campaigns to Capture Returning Customers",
+      "Cross-Platform Marketing for Maximum Reach",
+      "Real-Time Analytics & Data Insights to Optimize Campaigns"
+    ],
+    "benefits": [
+      "Expand Market Reach & Increase Online Sales",
+      "Build Trust & Credibility for Your Products",
+      "Engage Effectively with Buyers, Retailers & Distributors",
+      "Run Timely Campaigns for Seasonal & Harvest Products",
+      "Simplify Marketing Across Multiple Channels",
+      "Make Data-Driven Decisions for Continuous Growth"
+    ],
+    "caseStudies": [
+      {
+        "title": "Organic Fertilizer Brand Growth",
+        "description": "An organic fertilizer brand experienced 70% growth in online orders through targeted digital campaigns.",
+        "results": "70% growth in online orders"
+      },
+      {
+        "title": "Farm-to-Table Success",
+        "description": "A farm-to-table produce company increased distributor inquiries by 60% after implementing a full branding and marketing strategy.",
+        "results": "60% increase in distributor inquiries"
+      }
+    ]
+  },
+  "jewelry": {
+    "id": "jewelry",
+    "name": "Jewelry Industry Solutions",
+    "icon": "SiBlockchaindotcom",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216638/ind_14_nphrrp.webp",
+    "color": "from-amber-500 to-yellow-600",
+    "bgColor": "bg-amber-50",
+    "description": "Elegant digital solutions for jewelers, luxury accessory brands, and online jewelry stores.",
+    "longDescription": "The jewelry sector thrives on elegance, exclusivity, and emotional appeal. We help jewelers, luxury accessory brands, and online jewelry stores attract the right audience, build credibility, and boost sales through visually stunning and result-driven marketing campaigns.",
+    "projects": "65+ Jewelry Marketing Campaigns Executed",
+    "clients": "3+ Partner Jewelers & Luxury Brands",
+    "growth": "80% Growth in Customer Engagement & Online Sales",
+    "services": [
+      "Custom Brand Identity & Logo Design",
+      "Luxury Website & E-Commerce Store Development",
+      "SEO for Jewelry Collections & Premium Products",
+      "Social Media Marketing & Influencer Collaborations",
+      "Seasonal & Festival Campaigns",
+      "Product Photography & Lifestyle Lookbooks",
+      "Email & SMS Marketing for Promotions",
+      "Online Review & Reputation Management",
+      "Targeted Google & Meta Ads for High-Value Audiences"
+    ],
+    "features": [
+      "High-End Product Photography Highlighting Craftsmanship",
+      "Optimized Product Pages to Boost Visibility & Conversions",
+      "Mobile-Optimized Stores for Seamless Shopping",
+      "Retargeting Campaigns to Engage Returning Customers",
+      "Multi-Platform Marketing for Maximum Reach",
+      "Real-Time Analytics to Track Campaign Performance"
+    ],
+    "benefits": [
+      "Increase Online & In-Store Sales",
+      "Build Trust & Loyalty Among Luxury Customers",
+      "Engage Customers Through Social Media & Personalized Offers",
+      "Amplify Seasonal Collections & Promotions",
+      "Streamline Marketing Across Multiple Channels",
+      "Gain Insights to Plan Future Product Launches"
+    ],
+    "caseStudies": [
+      {
+        "title": "Designer Jewelry Brand Growth",
+        "description": "A designer jewelry brand achieved 2.5x growth in online sales through high-quality visuals and targeted campaigns.",
+        "results": "2.5x growth in online sales"
+      },
+      {
+        "title": "Luxury Jewelry Store Success",
+        "description": "A luxury jewelry store boosted repeat customer rates by 60% after a comprehensive branding and marketing strategy.",
+        "results": "60% boost in repeat customer rates"
+      }
+    ]
+  },
+  "sports": {
+    "id": "sports",
+    "name": "Sports Industry Solutions",
+    "icon": "FaBasketballBall",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216639/ind_15_u8eduv.webp",
+    "color": "from-red-500 to-orange-600",
+    "bgColor": "bg-red-50",
+    "description": "Dynamic digital solutions for sports brands, gyms, fitness centers, and sporting goods stores.",
+    "longDescription": "The sports and fitness sector thrives on energy, performance, and community engagement. We help sports brands, gyms, fitness centers, and sporting goods stores connect with enthusiasts, increase memberships, and boost sales through dynamic branding and digital marketing strategies.",
+    "technologies": ["Booking Systems", "E-commerce Platforms", "Payment Gateways", "Social Media APIs", "Analytics Tools"],
+    "projects": "7+ Sports Marketing Campaigns Executed",
+    "clients": "1+ Partner Gyms, Sports Brands & Clubs",
+    "growth": "70% Growth in Customer Engagement & Membership Sign-Ups",
+    "services": [
+      "Dynamic Brand Identity & Logo Design",
+      "Website & Online Booking / E-Commerce Platform Development",
+      "SEO for Sports Products, Classes & Events",
+      "Social Media Marketing & Athlete/Influencer Collaborations",
+      "Seasonal Fitness & Sports Campaigns",
+      "Product, Gym & Event Photography",
+      "Email & SMS Marketing for Promotions & Updates",
+      "Online Reputation & Review Management",
+      "Targeted Google & Meta Ads to Drive Engagement"
+    ],
+    "features": [
+      "High-Energy Visuals Capturing Motion & Action",
+      "Optimized Pages to Boost Sign-Ups & Sales",
+      "Mobile-Friendly Platforms for Easy Booking & Shopping",
+      "Retargeting Strategies to Engage Repeat Customers & Fans",
+      "Multi-Channel Marketing Across Social, Search & Email",
+      "Real-Time Analytics to Track Campaign Performance"
+    ],
+    "benefits": [
+      "Grow Memberships, Product Sales & Event Participation",
+      "Strengthen Presence in the Sports Community",
+      "Engage Fans & Customers Effectively",
+      "Run Timely Campaigns for Seasonal Offers & Events",
+      "Simplify Multi-Platform Marketing Management",
+      "Leverage Data Insights to Improve Future Campaigns"
+    ],
+    "caseStudies": [
+      {
+        "title": "Sports Apparel Brand Growth",
+        "description": "A sports apparel brand achieved 2x growth in online sales with targeted performance ads.",
+        "results": "2x growth in online sales"
+      },
+      {
+        "title": "Fitness Gym Success",
+        "description": "A fitness gym boosted membership renewals by 60% through social media campaigns and email marketing.",
+        "results": "60% boost in membership renewals"
+      }
+    ]
+  },
+  "government-events": {
+    "id": "government-events",
+    "name": "Government Event Solutions",
+    "icon": "IoMdMedal",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216643/ind_17_vfgars.webp",
+    "color": "from-slate-600 to-blue-700",
+    "bgColor": "bg-slate-50",
+    "description": "Trust-building digital solutions for government bodies, NGOs, and professional associations.",
+    "longDescription": "The government and association sector relies on trust, transparency, and active community engagement. We help government bodies, NGOs, and professional associations communicate clearly, boost participation, and strengthen public confidence through strategic branding and digital marketing.",
+    "technologies": ["Portal Systems", "Payment Gateways", "Social Media APIs", "Analytics Tools", "Mobile Apps"],
+    "projects": "5+ Campaigns Executed for Government & Associations",
+    "clients": "3+ Partner Departments & Organizations",
+    "growth": "78% Growth in Engagement & Public Participation",
+    "services": [
+      "Professional Brand Identity & Logo Design",
+      "Informative Websites & Portals Development",
+      "SEO for Services, Policies & Programs",
+      "Social Media Management & Awareness Campaigns",
+      "Event Promotion & Community Engagement",
+      "Photography & Video Coverage for Initiatives",
+      "Email & SMS Updates for Members or Citizens",
+      "Reputation Management & Feedback Monitoring",
+      "Paid Campaigns on Google & Meta for Awareness"
+    ],
+    "features": [
+      "Clear & Trust-Building Visuals for Public Communication",
+      "Optimized Portals for Easy Access to Services",
+      "Mobile-Friendly Platforms to Reach Wider Audiences",
+      "Retargeting Campaigns to Engage Citizens or Members",
+      "Multi-Channel Outreach for Maximum Visibility",
+      "Real-Time Reporting & Analytics to Track Campaign Impact"
+    ],
+    "benefits": [
+      "Increase Citizen or Member Engagement",
+      "Build Trust & Credibility for Programs",
+      "Communicate Initiatives Effectively Across Platforms",
+      "Run Awareness Campaigns with High Impact",
+      "Simplify Marketing & Communication Efforts",
+      "Use Data Insights to Plan Future Programs"
+    ],
+    "caseStudies": [
+      {
+        "title": "Local Government Success",
+        "description": "A local government department achieved 60% higher citizen participation through targeted digital campaigns.",
+        "results": "60% higher citizen participation"
+      },
+      {
+        "title": "Professional Association Growth",
+        "description": "A professional association increased member registrations by 50% after implementing branding and awareness campaigns across social media and email.",
+        "results": "50% increase in member registrations"
+      }
+    ]
+  },
+  "automobile": {
+    "id": "automobile",
+    "name": "Automobile Solutions",
+    "icon": "FaCar",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216643/ind_18_z77ave.webp",
+    "color": "from-gray-600 to-slate-700",
+    "bgColor": "bg-gray-50",
+    "description": "Performance-driven digital solutions for car dealers, auto manufacturers, and aftermarket service providers.",
+    "longDescription": "The automobile sector thrives on innovation, performance, and customer trust. We help car dealers, auto manufacturers, and aftermarket service providers connect with the right audience, drive sales, and establish a strong, reliable brand presence through strategic branding and digital marketing.",
+    "projects": "12+ Automotive Campaigns Executed",
+    "clients": "4+ Partner Dealerships & Auto Brands",
+    "growth": "78% Growth in Leads & Customer Engagement",
+    "services": [
+      "Custom Brand Identity & Logo Design",
+      "Website & E-Commerce Development for Vehicles or Accessories",
+      "SEO for Cars, Bikes, Spare Parts & Services",
+      "Social Media Marketing & Influencer Collaborations",
+      "Seasonal & Festive Promotions",
+      "Vehicle & Product Photography / Video Content",
+      "Email & SMS Campaigns for Offers & Updates",
+      "Online Reputation & Review Management",
+      "Targeted Google & Meta Ads to Generate Leads"
+    ],
+    "features": [
+      "High-Quality Visuals Highlighting Vehicles & Features",
+      "Optimized Pages to Convert Visitors into Buyers",
+      "Mobile-Friendly Platforms for Seamless Browsing & Booking",
+      "Retargeting Campaigns for Prospective Buyers",
+      "Multi-Channel Marketing Across Social, Search & Email",
+      "Real-Time Analytics to Monitor Campaign Performance"
+    ],
+    "benefits": [
+      "Boost Vehicle Sales & Service Bookings",
+      "Strengthen Brand Recognition & Customer Trust",
+      "Engage Customers Effectively via Social Media & Email",
+      "Maximize Impact of Seasonal & Festive Promotions",
+      "Simplify Multi-Channel Marketing Management",
+      "Leverage Data Insights for Better Future Campaigns"
+    ],
+    "caseStudies": [
+      {
+        "title": "Auto Dealership Success",
+        "description": "An auto dealership achieved 3x more vehicle inquiries with targeted digital campaigns.",
+        "results": "3x more vehicle inquiries"
+      },
+      {
+        "title": "Car Accessory Brand Growth",
+        "description": "A car accessory brand increased repeat orders and engagement by 60% through full-scale branding and marketing efforts.",
+        "results": "60% increase in repeat orders and engagement"
+      }
+    ]
+  },
+  "interiors-construction": {
+    "id": "interiors-construction",
+    "name": "Interiors & Construction Solutions",
+    "icon": "GiTempleDoor",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216644/ind_19_yxadcy.webp",
+    "color": "from-amber-600 to-orange-700",
+    "bgColor": "bg-amber-50",
+    "description": "Creative digital solutions for architecture firms, interior designers, and construction companies.",
+    "longDescription": "The interiors and construction industry thrives on creativity, precision, and client confidence. We help architecture firms, interior designers, and construction companies showcase their projects, attract quality clients, and grow their business through innovative branding and digital marketing strategies.",
+    "projects": "12+ Campaigns Delivered for Interiors & Construction",
+    "clients": "5+ Partner Companies & Design Studios",
+    "growth": "50% Growth in Leads & Project Inquiries",
+    "services": [
+      "Custom Brand Identity & Logo Design for Construction & Interiors",
+      "Portfolio Website & Project Showcase Development",
+      "SEO for Services, Projects & Design Solutions",
+      "Social Media Marketing & Client Engagement Campaigns",
+      "Seasonal Promotions & Project Launch Campaigns",
+      "Professional Photography & Video Coverage of Projects",
+      "Email & SMS Campaigns for Client Updates & Offers",
+      "Online Reputation & Review Management",
+      "Targeted Google & Meta Ads for Qualified Leads"
+    ],
+    "features": [
+      "Stunning Visuals Highlighting Projects & Designs",
+      "Optimized Pages for Maximum Lead Conversion",
+      "Mobile-Friendly Portfolio & Booking Platforms",
+      "Retargeting Strategies to Reconnect with Potential Clients",
+      "Multi-Channel Marketing Across Social, Search & Email",
+      "Real-Time Analytics to Track Campaign Success"
+    ],
+    "benefits": [
+      "Generate More Qualified Leads & Project Enquiries",
+      "Strengthen Brand Recognition & Client Trust",
+      "Engage Effectively with Prospective Clients",
+      "Run Timely Promotions for Seasonal Projects & Offers",
+      "Simplify Marketing Across Multiple Channels",
+      "Use Insights to Improve Future Campaign Strategies"
+    ],
+    "caseStudies": [
+      {
+        "title": "Interior Design Studio Success",
+        "description": "An interior design studio doubled client inquiries after a targeted branding and digital campaign.",
+        "results": "100% increase in client inquiries"
+      },
+      {
+        "title": "Construction Company Growth",
+        "description": "A construction company increased project bookings by 55% through social media marketing and reputation management.",
+        "results": "55% increase in project bookings"
+      }
+    ]
+  },
+  "lifestyle-perfume": {
+    "id": "lifestyle-perfume",
+    "name": "Lifestyle & Perfume Brands Solutions",
+    "icon": "GiAmpleDress",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216646/ind_20_hbmher.webp",
+    "color": "from-purple-500 to-pink-600",
+    "bgColor": "bg-purple-50",
+    "description": "Elegant digital solutions for fragrance brands, luxury lifestyle products, and premium accessory companies.",
+    "longDescription": "The lifestyle and perfume industry thrives on elegance, emotion, and brand allure. We help fragrance brands, luxury lifestyle products, and premium accessory companies build a captivating identity, reach the right audience, and increase sales through smart branding and digital marketing strategies.",
+    "projects": "55+ Campaigns Executed for Lifestyle & Perfume Brands",
+    "clients": "3+ Partner Boutiques & Luxury Brands",
+    "growth": "60% Growth in Online Engagement & Product Sales",
+    "services": [
+      "Bespoke Brand Identity & Logo Design",
+      "High-End Website & E-Commerce Store Development",
+      "SEO for Fragrance Collections & Luxury Lifestyle Products",
+      "Social Media Marketing & Influencer Partnerships",
+      "Launch, Seasonal & Festival Campaigns",
+      "Product Photography & Lifestyle Visual Storytelling",
+      "Email & SMS Marketing for Promotions & New Arrivals",
+      "Reputation Management & Customer Reviews",
+      "Paid Campaigns on Google & Meta to Drive Conversions"
+    ],
+    "features": [
+      "Stunning Product Visuals Highlighting Luxury & Quality",
+      "Optimized E-Commerce Pages to Boost Conversions",
+      "Mobile-Friendly Online Shopping Experience",
+      "Retargeting Campaigns for Returning & Loyal Customers",
+      "Multi-Channel Marketing Across Social, Search & Email",
+      "Real-Time Analytics to Track Campaign Performance"
+    ],
+    "benefits": [
+      "Increase Online Sales & In-Store Purchases",
+      "Build Strong Brand Identity & Customer Loyalty",
+      "Engage Audiences Effectively Through Social Media & Email",
+      "Run Successful Launches, Seasonal & Festival Promotions",
+      "Streamline Marketing Across Multiple Channels",
+      "Gain Actionable Insights for Future Campaigns"
+    ],
+    "caseStudies": [
+      {
+        "title": "Niche Perfume Brand Success",
+        "description": "A niche perfume brand doubled online sales within three months through targeted social media campaigns and e-commerce optimization.",
+        "results": "100% increase in online sales within 3 months"
+      },
+      {
+        "title": "Luxury Lifestyle Company Growth",
+        "description": "A luxury lifestyle company increased repeat customer engagement by 60% via influencer collaborations and branding initiatives.",
+        "results": "60% increase in repeat customer engagement"
+      }
+    ]
+  },
+  "logistics": {
+    "id": "logistics",
+    "name": "Logistics Solutions",
+    "icon": "ImTruck",
+    "image": "https://res.cloudinary.com/dxiwvcfs5/image/upload/v1761216646/ind_21_n5jhk6.webp",
+    "color": "from-indigo-500 to-blue-600",
+    "bgColor": "bg-indigo-50",
+    "description": "Reliable digital solutions for logistics companies, freight services, and supply chain firms.",
+    "longDescription": "The logistics and transportation sector thrives on reliability, efficiency, and trust. We help logistics companies, freight services, and supply chain firms build a strong brand presence, generate quality leads, and enhance visibility across regions. Our strategies combine smart digital marketing with professional branding to position your company as a dependable partner in the industry.",
+    "projects": "79+ Logistics Marketing Campaigns Executed",
+    "clients": "2+ Partner Logistics & Supply Chain Companies",
+    "growth": "90% Growth in Business Enquiries",
+    "services": [
+      "Logistics Branding & Corporate Identity Design",
+      "Website Design for Transport & Supply Chain Companies",
+      "SEO for Freight, Logistics & Supply Chain Services",
+      "Social Media Marketing & Business Promotion",
+      "Google Ads & B2B Lead Generation Campaigns",
+      "Client Communication & Email Automation",
+      "Video Marketing & Fleet Showcasing",
+      "Online Reputation & Review Management",
+      "Analytics & Performance Tracking Solutions"
+    ],
+    "features": [
+      "Location-Based Marketing to Target Relevant Regions",
+      "Real-Time Lead Tracking & Performance Dashboard",
+      "CRM & Marketing Automation Integration",
+      "SEO-Optimized Content for B2B Clients",
+      "Multi-Language Website Support",
+      "Secure Data Management & Compliance"
+    ],
+    "benefits": [
+      "Increase in Business Enquiries & Partnerships",
+      "Stronger Brand Authority & Industry Reputation",
+      "Higher Online Visibility & Search Rankings",
+      "Streamlined Client Communication & Follow-Ups",
+      "Cost-Effective Marketing with Measurable Results",
+      "Build Long-Term Trust & Credibility"
+    ],
+    "caseStudies": [
+      {
+        "title": "Regional Transport Company Success",
+        "description": "A regional transport company achieved a 65% increase in business enquiries after a full rebranding and SEO-driven campaign.",
+        "results": "65% increase in business enquiries"
+      },
+      {
+        "title": "Supply Chain Solutions Growth",
+        "description": "A supply chain solutions firm boosted qualified B2B leads by 40% through LinkedIn and Google Ads campaigns.",
+        "results": "40% boost in qualified B2B leads"
+      }
+    ]
+  }
+
+}

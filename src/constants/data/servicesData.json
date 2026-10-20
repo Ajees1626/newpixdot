@@ -1,0 +1,343 @@
+{
+  "Brand & Creative": {
+    "id": "Brand & Creative",
+    "icon": "FaLightbulb",
+    "title": "Brand & Creative",
+    "headerTagline": "Build a memorable brand",
+    "description": "We create unique brand designs that make your business look professional and memorable.",
+    "overview": "End‑to‑end creative services to craft a distinct, consistent and scalable brand presence across every touchpoint.",
+    "longDescription": "Elevate your business identity with our complete brand and creative solutions. We design and develop impactful visual identities, compelling brand messaging, and cohesive creative assets that resonate with your audience. From logos and packaging to marketing collateral and campaigns, we ensure your brand stands out and leaves a lasting impression. Our approach focuses on creativity, consistency, and measurable impact.",
+    "features": [
+      "Brand Strategy & Positioning",
+      "Logo & Visual Identity Design",
+      "Packaging Design",
+      "Marketing Collateral Design",
+      "Social Media Creative Design",
+      "Video & Motion Graphics",
+      "Copywriting & Content Creation",
+      "Brand Guidelines & Templates",
+      "Campaign Creative Development",
+      "Print & Digital Assets"
+    ],
+    "technicalTools": [
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Adobe InDesign",
+      "Figma",
+      "Adobe After Effects",
+      "Canva"
+    ],
+    "price": "Starting at $120",
+    "duration": "Ongoing",
+    "color": "from-blue-500 to-blue-600",
+    "bgColor": "bg-blue-50",
+    
+    "whyChoose": [
+      "200+ Satisfied Clients",
+      "Award-Winning Creative Team",
+      "4.9/5 Client Rating"
+    ],
+    "process": [
+      { "step": "Strategy & Research", "description": "Defining brand vision, target audience, and positioning" },
+      { "step": "Creative Concept Development", "description": " Developing design concepts and creative directions" },
+      { "step": "Design Execution", "description": "Creating visual assets, graphics, and campaigns" },
+      { "step": "Review & Feedback", "description": "Collaborating with clients for revisions and approval" },
+      { "step": "Final Delivery & Guidelines", "description": "Providing final assets with brand guidelines for consistent usage" }
+    ],
+    "benefits": [
+      "Strong Brand Identity",
+      "Memorable Visual Presence",
+      "Cohesive Creative Assets",
+      "Enhanced Customer Engagement",
+      "Consistency Across Platforms",
+      "Scalable Brand Growth"
+    ]
+  },
+  "Digital Marketing": {
+    "id": "Digital Marketing",
+    "icon": "GiArcheryTarget",
+    "title": "Digital Marketing",
+    "headerTagline": "Reach users everywhere",
+    "description": "We promote your business online to reach more people and get real results.",
+    "overview": "Design, build and ship high‑performance mobile apps with native feel, modern stacks and robust CI/CD.",
+    "longDescription": "Accelerate your business growth with our comprehensive digital marketing services. We create and execute data-driven strategies that reach your target audience, boost brand visibility, and drive qualified leads and sales. Our multi-channel approach ensures your message reaches customers everywhere, while analytics provide insights for continuous improvement.",
+    "features": [
+      "Social Media Marketing",
+      "Pay-Per-Click (PPC) Campaigns  ",
+      "Content Marketing",
+      "Email Marketing",
+      "Influencer Marketing",
+      "Video Marketing",
+      "Marketing Automation",
+      "Analytics & Reporting",
+      "A/B Testing",
+      "Conversion Optimization"
+    ],
+    "technicalTools": [
+      "Google Ads",
+      "Facebook Ads",
+      "HubSpot",
+      "Mailchimp",
+      "Hootsuite",
+      "Google Analytics"
+    ],
+    "price": "Starting at $180",
+    "duration": "Ongoing",
+    "color": "from-green-500 to-green-600",
+    "bgColor": "bg-green-50",
+    
+    "whyChoose": [
+      "150+ Happy Clients",
+      "Award-Winning Team",
+      "4.9/5 Client Rating"
+    ],
+    "process": [
+      { "step": "Strategy Development", "description": "Creating a comprehensive digital marketing strategy" },
+      { "step": " Campaign Setup", "description": "Setting up and optimizing marketing campaigns" },
+      { "step": "Content Creation", "description": "Developing engaging content for all channels" },
+      { "step": "Execution & Monitoring", "description": "Running campaigns and monitoring performance" },
+      { "step": "Optimization", "description": "Continuously improving based on data and results" }
+    ],
+    "benefits": [
+      "Increased Brand Awareness",
+      "Higher Lead Generation",
+      "Better Customer Engagement",
+      "Improved ROI",
+      "Data-Driven Insights",
+      "Scalable Growth"
+    ]
+  },
+  "Packaging Design": {
+    "id": "Packaging Design",
+    "icon": "VscPackage",
+    "title": "Packaging Design",
+    "headerTagline": "Be found first",
+    "description": "We design attractive packaging that catches attention and increases product sales.",
+    "overview": "Holistic SEO programs that increase qualified traffic, improve rankings and compound long‑term growth.",
+    "longDescription": "Transform your product’s shelf appeal with our innovative packaging design services. We craft eye-catching, functional, and brand-aligned packaging that attracts customers and enhances brand perception. From concept to final design, we focus on creativity, usability, and market impact, ensuring your product stands out and drives sales.",
+    "features": [
+      "Product Packaging Concept Design",
+      "Label Design",
+      "Sustainable & Eco-Friendly Packaging Solutions",
+      "3D Mockups & Prototypes",
+      "Packaging Artwork for Printing",
+      "Retail & E-commerce Ready Designs",
+      "Brand-Aligned Graphics & Typography",
+      "Print-Ready File Preparation",
+      "Design Revisions & Final Delivery"
+    ],
+    "technicalTools": [
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Adobe InDesign",
+      "CorelDRAW",
+      "3D Mockup Tools (ArtiosCAD, Esko)"
+    ],
+    "price": "Starting at $60",
+    "duration": "Ongoing",
+    "color": "from-purple-500 to-purple-600",
+    "bgColor": "bg-purple-50",
+    
+    "whyChoose": [
+      "150+ Successful Packaging Projects",
+      "Creative & Experienced Design Team",
+      "4.9/5 Client Rating"
+    ],
+    "process": [
+      { "step": "Research & Inspiration", "description": "Analyzing market trends, competitors, and target audience" },
+      { "step": "Concept Development", "description": "Creating multiple design concepts aligned with brand identity" },
+      { "step": "Design Execution", "description": "Developing packaging visuals, graphics, and mockups" },
+      { "step": "Client Review & Feedback", "description": "Refining designs based on client inputs" },
+      { "step": "Final Delivery", "description": "Providing print-ready files and guidelines for production" }
+    ],
+    "benefits": [
+      "Attractive Product Presentation",
+      "Strong Brand Identity",
+      "Enhanced Shelf Impact",
+      "Increased Customer Engagement",
+      "Market-Ready Designs",
+      "Scalable Packaging Solutions"
+    ]
+  },
+  "Website Development": {
+    "id": "Website Development",
+    "icon": "TbWorldCheck",
+    "title": "Website Development",
+    "headerTagline": "Delight users, drive results",
+    "description": "We build fast, modern, and easy-to-use websites for your business.",
+    "overview": "Research‑driven product design that blends aesthetics and usability to increase conversions and retention.",
+    "longDescription": "Build a strong online presence with our expert website development services. We create fast, secure, and user-friendly websites tailored to your business goals. From responsive designs to seamless functionality, we deliver websites that engage visitors, enhance user experience, and drive conversions.",
+    "features": [
+      "Custom Website Design & Development",
+      "Responsive & Mobile-Friendly Design",
+      "E-commerce Website Development",
+      "CMS-Based Websites (WordPress, Shopify, etc.)",
+      "Landing Page & Microsite Development",
+      "RUI/UX Design",
+      "Website Maintenance & Support",
+      "SEO-Friendly Website Structure",
+      "Website Speed & Performance Optimization",
+      "Security & Backup Solutions"
+    ],
+    "technicalTools": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "WordPress",
+      "Shopify",
+      "E-Commerce",
+      "React",
+      "PHP",
+      "MySQL",
+      "Figma",
+      "Adobe XD",
+      "Google Analytics",
+      "GTM"
+    ],
+    "price": "Starting at $240",
+    "duration": "Ongoing",
+    "color": "from-pink-500 to-pink-600",
+    "bgColor": "bg-pink-50",
+    
+    "whyChoose": [
+      "100+ Websites Successfully Delivered",
+      "Skilled Development Team",
+      "4.9/5 Client Rating"
+    ],
+    "process": [
+      { "step": "Requirement Analysis", "description": "Understanding business goals, target audience, and functionality needs" },
+      { "step": "Design & Wireframing", "description": "Creating website layout, UI/UX design, and wireframes" },
+      { "step": "Development", "description": "Coding front-end and back-end functionalities" },
+      { "step": "Testing & Quality Assurance", "description": "Ensuring responsiveness, speed, and bug-free performance" },
+      { "step": "Launch & Support", "description": "Deploying the website and providing ongoing maintenance" }
+    ],
+    "benefits": [
+      "Professional Online Presence",
+      "Enhanced User Experience",
+      "Increased Website Traffic & Leads",
+      "RedSEO-Optimized Structure",
+      "Secure & Reliable Websites",
+      "Scalable for Future Growth"
+    ]
+  },
+  "App Development": {
+    "id": "App Development",
+    "icon": "CiMobile1",
+    "title": "App Development",
+    "headerTagline": "Accelerate growth",
+    "description": "We create mobile apps that are simple, smart, and help your business grow.",
+    "overview": "Integrated campaigns across paid, owned and earned media to scale awareness, leads and revenue.",
+    "longDescription": "Turn your ideas into powerful mobile experiences with our end-to-end app development services. We design and build intuitive, high-performance mobile applications for iOS and Android that engage users, streamline business processes, and drive growth. Our solutions combine creativity, functionality, and scalability for maximum impact.",
+    "features": [
+      "iOS & Android App Development",
+      "Cross-Platform App Solutions",
+      "UI/UX Design for Mobile Apps",
+      "App Prototyping & Wireframing",
+      "Backend & API Integrationing",
+      "App Testing & Quality Assurance",
+      "App Store Deployment & Support",
+      "Push Notifications & Analytics Integration",
+      "Maintenance & Upgrades",
+      "Performance Optimization"
+    ],
+    "technicalTools": [
+      "Firebase",
+      "Node.js",
+      "MySQL",
+      "Swift",
+      "Kotlin",
+      "Flutter",
+      "React Native",
+      "Figma",
+      "Adobe XD",
+      "Google Analytics",
+      "App Store Connect",
+      "Google Play Console"
+    ],
+    "price": "Starting at $480",
+    "duration": "Ongoing",
+    "color": "from-orange-500 to-orange-600",
+    "bgColor": "bg-orange-50",
+    
+    "whyChoose": [
+      "80+ Apps Successfully Delivered",
+      "Expert Mobile Development Team",
+      "4.9/5 Client Rating"
+    ],
+    "process": [
+      { "step": "Requirement Gathering", "description": "Understanding your business goals and app functionality" },
+      { "step": "Design & Wireframing", "description": "Creating app layouts, UI/UX, and interactive prototypes" },
+      { "step": "Development", "description": "Building frontend and backend functionalities" },
+      { "step": "Testing & QA", "description": "Ensuring smooth performance, responsiveness, and bug-free experience" },
+      { "step": "Launch & Maintenance", "description": "Deploying to app stores and providing ongoing support" }
+    ],
+    "benefits": [
+      "Enhanced User Engagement",
+      "Scalable & High-Performance Apps",
+      "Seamless User Experience",
+      "Increased Brand Reach & Customer Retention",
+      "Data-Driven Insights",
+      "Continuous App Improvement"
+    ]
+  },
+  "Personal Branding": {
+    "id": "Personal Branding",
+    "icon": "IoIosPeople",
+    "title": "Personal Branding",
+    "headerTagline": "Sell everywhere",
+    "description": "We help you build your name, style, and online presence to stand out.",
+    "overview": "Custom storefronts and robust commerce backends built for speed, security and scale.",
+    "longDescription": "Build a strong and authentic personal brand that sets you apart. We help individuals define their unique identity, craft compelling messaging, and create a consistent visual presence across all platforms. From social media to professional profiles, we position you as a thought leader and amplify your influence.",
+    "features": [
+      "Personal Brand Strategy & Positioning",
+      "Logo & Visual Identity for Individuals",
+      "Social Media Profile Design & Optimization",
+      "OContent Creation & Copywriting",
+      "LinkedIn & Social Media Branding",
+      "Personal Website/Portfolio Development",
+      "Professional Photography & Visuals",
+      "Online Reputation Management",
+      "Brand Guidelines for Consistency",
+      "Campaigns & Promotions"
+    ],
+    "technicalTools": [
+      "Premiere Pro",
+      "After Effects",
+      "Google Analytics",
+      "LinkedIn",
+      "Instagram",
+      "Twitter",
+      "Figma",
+      "Adobe XD",
+      "Canva",
+      "Photoshop",
+      "Illustrator"
+    ],
+    "price": "Starting at $300",
+    "duration": "Ongoing",
+    "color": "from-red-500 to-red-600",
+    "bgColor": "bg-red-50",
+    
+    "whyChoose": [
+      "100+ Personal Brands Successfully Developed",
+      "Experienced & Creative Team",
+      "4.9/5 Client Rating"
+    ],
+    "process": [
+      { "step": "Discovery & Research", "description": "Understanding your goals, target audience, and unique value" },
+      { "step": "Strategy Development", "description": "Defining your personal brand identity and messaging" },
+      { "step": "Visual & Content Creation", "description": "Creating logo, visuals, and content that reflect your brand" },
+      { "step": "Execution & Engagement", "description": "Building your online presence and promoting your brand" },
+      { "step": "Monitoring & Optimization", "description": "Tracking results and refining strategies for growth" }
+    ],
+    "benefits": [
+      "Strong Personal Identity",
+      "Consistent Online Presence",
+      "Increased Visibility & Credibility",
+      "Improved Professional Opportunities",
+      "Audience Engagement & Influence",
+      "Scalable Personal Growth"
+    ]
+  }
+}
+

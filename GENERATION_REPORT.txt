@@ -1,0 +1,38 @@
+Pixdot Constants — Generation Report
+====================================
+Date: 2026-07-03
+
+SOURCE DATA
+-----------
+Legacy JSON: a:\web code\new pixdot website\frontend\src\data\
+Resolved via @source-data alias in vite.config.ts / tsconfig.app.json
+
+RECORD COUNTS (verified from source JSON)
+-----------------------------------------
+Case studies:  29  (logo-1 … logo-29, Cloudinary URLs)
+Industries:    21  (healthcare, Education, IT Industry, … logistics)
+Projects:     296 (70 logos + 122 posters + 95 packaging + 9 branding)
+Services:       6  (Brand & Creative … Personal Branding)
+Solutions:     19  (brand-strategy … growth-acceleration)
+
+TYPESCRIPT FILE LINE COUNTS
+-----------------------------
+caseStudies.ts   59 lines  + _helpers.ts (shared)
+industries.ts    65 lines
+projects.ts      83 lines
+services.ts      89 lines
+solutions.ts     54 lines
+_helpers.ts      59 lines
+
+HELPERS
+-------
+getCaseStudyBySlug, getIndustryBySlug, getProjectsByCategory,
+getServiceBySlug, getSolutionBySlug
+
+INLINED STATIC FILES (optional)
+-------------------------------
+Run from frontend/:
+  npm run copy-data    — copy JSON into src/constants/data/
+  npm run generate     — emit fully inlined .ts files (~6000+ lines total)
+
+CaseStudyDetails.tsx updated for coverImage/images gallery (no research/testimonial).

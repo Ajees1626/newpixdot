@@ -1,0 +1,136 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --surface: 240 33% 98%;
+    --card: 0 0% 100%;
+    --text: 240 10% 6%;
+    --muted: 240 6% 42%;
+    --border: 240 14% 90%;
+
+    --primary: 255 85% 60%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 191 91% 48%;
+    --secondary-foreground: 0 0% 100%;
+    --accent: 28 96% 58%;
+    --accent-foreground: 240 10% 6%;
+
+    --cursor-mix: 240 10% 6%;
+  }
+
+  .dark {
+    --background: 240 16% 5%;
+    --surface: 240 14% 8%;
+    --card: 240 14% 10%;
+    --text: 0 0% 96%;
+    --muted: 240 8% 65%;
+    --border: 240 10% 18%;
+
+    --primary: 255 92% 68%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 191 91% 55%;
+    --secondary-foreground: 240 10% 6%;
+    --accent: 28 96% 62%;
+    --accent-foreground: 240 10% 6%;
+
+    --cursor-mix: 0 0% 96%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: auto;
+    -webkit-tap-highlight-color: transparent;
+    background-color: hsl(var(--background));
+  }
+
+  html.lenis {
+    height: auto;
+  }
+
+  body {
+    @apply bg-background text-text font-body antialiased;
+    font-feature-settings: "ss01" on, "ss02" on;
+    /* IMPORTANT: use `hidden`, not `clip`, here. `overflow: clip` forces the
+       browser to clip position:fixed descendants to this box too, which
+       breaks GSAP ScrollTrigger's pin: true sections (they render blank/
+       white mid-scroll). `hidden` still prevents the horizontal scrollbar
+       without clipping fixed-position pinned elements. */
+    overflow-x: hidden;
+    transition: background-color 0.5s var(--ease-premium, ease), color 0.5s ease;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-tightest;
+  }
+
+  ::selection {
+    background: hsl(var(--primary) / 0.3);
+    color: hsl(var(--text));
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: hsl(var(--muted) / 0.4);
+    border-radius: 999px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: hsl(var(--primary) / 0.6);
+    background-clip: padding-box;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    body, a, button {
+      cursor: none;
+    }
+  }
+}
+
+@layer components {
+  .container-px {
+    @apply px-6 sm:px-10 lg:px-16 4xl:px-24;
+  }
+
+  .glass {
+    @apply border border-border/70 bg-background/80 backdrop-blur-xl dark:border-white/10 dark:bg-background/75;
+  }
+
+  .text-gradient {
+    @apply bg-gradient-brand bg-clip-text text-transparent;
+  }
+
+  .eyebrow {
+    @apply inline-flex items-center gap-2 text-fluid-xs font-semibold uppercase tracking-[0.2em] text-muted;
+  }
+
+  .btn-magnetic {
+    @apply relative inline-flex items-center justify-center overflow-hidden rounded-full transition-[transform,background-color,color,border-color,box-shadow] duration-500 ease-premium;
+  }
+}
+
+@layer utilities {
+  .mask-fade-r {
+    mask-image: linear-gradient(90deg, black 85%, transparent 100%);
+  }
+  .mask-fade-x {
+    mask-image: linear-gradient(90deg, transparent 0%, black 8%, black 92%, transparent 100%);
+  }
+  .mask-fade-hero {
+    mask-image: linear-gradient(90deg, transparent 0%, transparent 22%, black 52%, black 100%);
+    -webkit-mask-image: linear-gradient(90deg, transparent 0%, transparent 22%, black 52%, black 100%);
+  }
+}

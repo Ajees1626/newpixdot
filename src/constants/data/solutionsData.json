@@ -1,0 +1,222 @@
+{
+  "brand-strategy": {
+    "id": "brand-strategy",
+    "icon": "FaChess",
+    "title": "Brand Strategy",
+    "description": "Comprehensive strategy to shape your brand vision, voice, and market value.",
+    "features": ["Market Research", "Brand Positioning", "Target Audience Analysis", "Competitive Benchmarking"],
+    "benefits": ["Clear Brand Identity", "Better Market Fit", "Consistent Messaging", "Long-Term Growth"],
+    "category": "Strategy",
+    "color": "from-blue-500 to-blue-600",
+    "bgColor": "bg-blue-50"
+  },
+  "visual-identity-design": {
+    "id": "visual-identity-design",
+    "icon": "FaEye",
+    "title": "Visual Identity Design",
+    "description": "Impactful logos and visual systems reflecting your brand personality.",
+    "features": ["Logo Design", "Color Palette & Typography", "Brand Patterns & Icons", "Corporate Collaterals"],
+    "benefits": ["Memorable Brand Image", "Professional Presentation", "Visual Consistency", "Strong Recognition"],
+    "category": "Design",
+    "color": "from-purple-500 to-purple-600",
+    "bgColor": "bg-purple-50"
+  },
+  "brand-guidelines": {
+    "id": "brand-guidelines",
+    "icon": "IoIosCompass",
+    "title": "Brand Guidelines",
+    "description": "Brand manuals ensuring cohesive visuals and messaging.",
+    "features": ["Brand Manual Creation", "Logo Usage Rules", "Color & Font System", "Digital & Print Applications"],
+    "benefits": ["Consistent Branding", "Easy Implementation", "Professional Image", "Team Alignment"],
+    "category": "Branding",
+    "color": "from-indigo-500 to-indigo-600",
+    "bgColor": "bg-indigo-50"
+  },
+  "packaging-design": {
+    "id": "packaging-design",
+    "icon": "VscLayoutPanelJustify",
+    "title": "Packaging Design",
+    "description": "Strategic packaging solutions connecting emotionally and visually.",
+    "features": ["Product Label Design", "Box & Container Packaging", "Mockups & Prototypes", "Print Production Support"],
+    "benefits": ["Eye-catching Appeal", "Strong Shelf Visibility", "Increased Sales", "Brand Recognition"],
+    "category": "Design",
+    "color": "from-orange-500 to-orange-600",
+    "bgColor": "bg-orange-50"
+  },
+  "brand-naming-tagline": {
+    "id": "brand-naming-tagline",
+    "icon": "TbTypography",
+    "title": "Brand Naming & Tagline Creation",
+    "description": "Memorable brand names and taglines capturing your story.",
+    "features": ["Name Research & Validation", "Tagline Development", "Domain & Trademark Check", "Linguistic Testing"],
+    "benefits": ["Easy Recall", "Strong Market Position", "Brand Storytelling", "Legal Safety"],
+    "category": "Branding",
+    "color": "from-pink-500 to-pink-600",
+    "bgColor": "bg-pink-50"
+  },
+  "business-development-strategy": {
+    "id": "business-development-strategy",
+    "icon": "GiGrowth",
+    "title": "Business Development Strategy",
+    "description": "End-to-end strategies for revenue growth and market expansion.",
+    "features": ["Growth Planning", "Partnership Development", "Sales Funnel Design", "Revenue Optimization"],
+    "benefits": ["Increased Profits", "Business Expansion", "Strategic Opportunities", "Long-Term Success"],
+    "category": "Strategy",
+    "color": "from-green-500 to-green-600",
+    "bgColor": "bg-green-50"
+  },
+  "market-research-insights": {
+    "id": "market-research-insights",
+    "icon": "FaSearch",
+    "title": "Market Research & Insights",
+    "description": "Analyzing trends, competitors, and customer behavior.",
+    "features": ["Competitor Study", "Consumer Insights", "SWOT Analysis", "Market Forecasting"],
+    "benefits": ["Data-Driven Strategy", "Reduced Risk", "Smarter Investments", "Improved Positioning"],
+    "category": "Research",
+    "color": "from-teal-500 to-teal-600",
+    "bgColor": "bg-teal-50"
+  },
+  "digital-marketing": {
+    "id": "digital-marketing",
+    "icon": "HiSpeakerphone",
+    "title": "Digital Marketing",
+    "description": "Performance-driven campaigns across Meta, Google, and other digital channels.",
+    "features": ["Meta Ads (Facebook & Instagram)", "Google Ads (Search & Display)", "SEO & SEM Optimization", "Analytics & Reporting"],
+    "benefits": ["Brand Awareness", "Increased Leads & Conversions", "Higher ROI", "Measurable Growth"],
+    "category": "Marketing",
+    "color": "from-red-500 to-red-600",
+    "bgColor": "bg-red-50"
+  },
+  "social-media-branding": {
+    "id": "social-media-branding",
+    "icon": "MdOutlineSocialDistance",
+    "title": "Social Media Branding",
+    "description": "Building consistent brand presence across platforms.",
+    "features": ["Content Calendar Planning", "Reels & Video Strategy", "Paid Promotions (Meta Ads)", "Page Optimization"],
+    "benefits": ["Audience Engagement", "Community Growth", "Brand Recall", "Organic Reach"],
+    "category": "Marketing",
+    "color": "from-cyan-500 to-cyan-600",
+    "bgColor": "bg-cyan-50"
+  },
+  "seo-optimization": {
+    "id": "seo-optimization",
+    "icon": "IoIosSettings",
+    "title": "Search Engine Optimization (SEO)",
+    "description": "Optimizing website and content to rank higher in search engines.",
+    "features": ["Keyword Research", "On-Page & Off-Page SEO", "Technical SEO", "Performance Analytics"],
+    "benefits": ["Organic Traffic Growth", "Better Search Ranking", "Lead Generation", "Long-Term Results"],
+    "category": "Marketing",
+    "color": "from-yellow-500 to-yellow-600",
+    "bgColor": "bg-yellow-50"
+  },
+  "website-development": {
+    "id": "website-development",
+    "icon": "GiSpiderWeb",
+    "title": "Website Development",
+    "description": "Professional websites representing your brand and driving conversions.",
+    "features": ["Corporate & Landing Websites", "UX/UI Optimization", "SEO Setup", "Maintenance & Support"],
+    "benefits": ["24/7 Brand Presence", "Lead Generation", "Improved Credibility", "Seamless Experience"],
+    "category": "Development",
+    "color": "from-emerald-500 to-emerald-600",
+    "bgColor": "bg-emerald-50"
+  },
+  "sales-funnel-automation": {
+    "id": "sales-funnel-automation",
+    "icon": "IoFunnel",
+    "title": "Sales & Funnel Automation",
+    "description": "Smart systems to convert prospects into loyal customers.",
+    "features": ["CRM Integration", "Email & SMS Automation", "Lead Tracking", "Campaign Reports"],
+    "benefits": ["Efficient Workflow", "Time Savings", "Higher Conversions", "Measurable Results"],
+    "category": "Automation",
+    "color": "from-violet-500 to-violet-600",
+    "bgColor": "bg-violet-50"
+  },
+  "business-consulting": {
+    "id": "business-consulting",
+    "icon": "FaUsers",
+    "title": "Business Consulting",
+    "description": "Insights and execution support for business growth.",
+    "features": ["Strategic Planning", "Revenue Mapping", "Process Optimization", "Competitive Analysis"],
+    "benefits": ["Clarity in Direction", "Better Efficiency", "Measurable Growth", "Sustainable Success"],
+    "category": "Consulting",
+    "color": "from-slate-500 to-slate-600",
+    "bgColor": "bg-slate-50"
+  },
+  "corporate-communication": {
+    "id": "corporate-communication",
+    "icon": "RiUserCommunityFill",
+    "title": "Corporate Communication",
+    "description": "Professional communication design for internal & external stakeholders.",
+    "features": ["Corporate Decks", "Proposals & Reports", "Press Kits", "Brand Language"],
+    "benefits": ["Professional Impression", "Brand Consistency", "Credibility Boost", "Clear Messaging"],
+    "category": "Communication",
+    "color": "from-amber-500 to-amber-600",
+    "bgColor": "bg-amber-50"
+  },
+  "lead-generation-campaigns": {
+    "id": "lead-generation-campaigns",
+    "icon": "MdModeComment",
+    "title": "Lead Generation Campaigns",
+    "description": "Targeted online campaigns to attract and convert clients.",
+    "features": ["Meta Ads Campaigns", "Google Ads Campaigns", "Landing Pages", "Conversion Tracking"],
+    "benefits": ["Quality Leads", "Cost Efficiency", "Measurable ROI", "Increased Sales"],
+    "category": "Marketing",
+    "color": "from-rose-500 to-rose-600",
+    "bgColor": "bg-rose-50"
+  },
+  "personal-branding": {
+    "id": "personal-branding",
+    "icon": "FaUsers",
+    "title": "Personal Branding",
+    "description": "Helping entrepreneurs, leaders, and creators stand out online.",
+    "features": ["Profile Setup & Strategy", "Visual Identity", "Content Planning", "Audience Growth"],
+    "benefits": ["Higher Credibility", "Networking Opportunities", "Better Engagement", "Reputation Growth"],
+    "category": "Branding",
+    "color": "from-lime-500 to-lime-600",
+    "bgColor": "bg-lime-50"
+  },
+  "brand-campaigns": {
+    "id": "brand-campaigns",
+    "icon": "GiPublicSpeaker",
+    "title": "Brand Campaigns",
+    "description": "Creative campaigns making your brand unforgettable.",
+    "features": ["Campaign Concept Development", "Visual & Copy Strategy", "Multi-Platform Execution", "Performance Analytics"],
+    "benefits": ["Viral Reach", "Emotional Connection", "Increased Awareness", "Customer Loyalty"],
+    "category": "Marketing",
+    "color": "from-sky-500 to-sky-600",
+    "bgColor": "bg-sky-50"
+  },
+  "branding-collaterals": {
+    "id": "branding-collaterals",
+    "icon": "FaUsers",
+    "title": "Branding Collaterals",
+    "description": "Business essentials communicating your brand language.",
+    "features": ["Letterhead & Business Card", "Brochure & Catalogue", "Presentation Decks", "Company Profile"],
+    "benefits": ["Unified Branding", "Corporate Look", "Client Trust", "Easy Marketing"],
+    "category": "Design",
+    "color": "from-fuchsia-500 to-fuchsia-600",
+    "bgColor": "bg-fuchsia-50"
+  },
+  "pr-media-management": {
+    "id": "pr-media-management",
+    "icon": "CgMediaPodcast",
+    "title": "PR & Media Management",
+    "description": "Strategic media management to build credibility and influence.",
+    "features": ["Press Releases", "Online Reputation Management", "Influencer Collaborations", "Media Outreach"],
+    "benefits": ["Positive Brand Perception", "Public Trust", "Wider Reach", "Authority Building"],
+    "category": "Communication",
+    "color": "from-stone-500 to-stone-600",
+    "bgColor": "bg-stone-50"
+  },
+  "growth-acceleration": {
+    "id": "growth-acceleration",
+    "icon": "IoPush",
+    "title": "Growth Acceleration",
+    "description": "Programs combining creativity, technology, and business intelligence.",
+    "features": ["Business Scaling Plans", "Funding & Partnerships", "Automation Tools", "Performance Tracking"],
+    "benefits": ["Rapid Growth", "Increased Valuation", "Operational Efficiency", "Long-Term Success"],
+    "category": "Strategy",
+    "color": "from-emerald-500 to-emerald-600",
+    "bgColor": "bg-emerald-50"
+  }
+}
